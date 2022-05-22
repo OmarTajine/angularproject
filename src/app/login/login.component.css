@@ -1,0 +1,11 @@
+.card-login{
+  box-shadow: 5px 10px 10px 8px rgb(0 0 255/20%);
+  border: 1px solid #e7e7e7;
+  padding: 50px;
+
+}
+.card-login .login-image{
+  width: 200px;
+  height: 75px;
+margin-bottom: 50px;
+}
